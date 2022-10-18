@@ -1,6 +1,10 @@
 .App {
   text-align: center;
 }
+.btn{
+  background-color: palegreen;
+  color: white;
+}
 
 .App-logo {
   height: 40vmin;
